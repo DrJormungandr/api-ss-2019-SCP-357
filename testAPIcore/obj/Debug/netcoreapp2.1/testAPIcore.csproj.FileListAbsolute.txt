@@ -1,0 +1,14 @@
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\bin\Debug\netcoreapp2.1\testAPIcore.deps.json
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\bin\Debug\netcoreapp2.1\testAPIcore.runtimeconfig.json
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\bin\Debug\netcoreapp2.1\testAPIcore.runtimeconfig.dev.json
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\bin\Debug\netcoreapp2.1\testAPIcore.dll
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.csproj.CoreCompileInputs.cache
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.RazorAssemblyInfo.cache
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.RazorAssemblyInfo.cs
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.AssemblyInfoInputs.cache
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.AssemblyInfo.cs
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.RazorTargetAssemblyInfo.cache
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\bin\Debug\netcoreapp2.1\testAPIcore.pdb
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.dll
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.pdb
+C:\Users\asedov\source\repos\testAPIcore\testAPIcore\obj\Debug\netcoreapp2.1\testAPIcore.csprojAssemblyReference.cache
